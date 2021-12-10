@@ -26,10 +26,10 @@ You then save and submit the schematic you did on CircuitJS, If it gets aproved,
 
 To convert it into a model, just make it a subcircuit, to convert it just click on File> Create Subcircuit and model it to its real-life schematic symbol, to follow the example:
 
-![TL431-irl-symbol](https://imgur.com/a/EKS9neo.png)
+![TL431irlsymbol](https://imgur.com/VtSw9jz.png)
 
 and on CircuitJS
 
-![TL431-CircuitJS-Symbol](https://imgur.com/a/wKrgSv1.png)
+![TL431CircuitJSSymbol](https://imgur.com/MjvZHTI.png)
 
 
